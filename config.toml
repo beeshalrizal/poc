@@ -1,0 +1,21 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Your Site Title"
+theme = "PaperMod"
+
+[params]
+custom_css = ["css/custom.css"]
+defaultTheme = "dark"
+enableThemeToggle = true
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+ShowRssButtonInSectionTermList = false
+ShowToc = false
+disableThemeToggle = false
+hideHeader = true
+
+# Disable the menu globally
+[menu]
